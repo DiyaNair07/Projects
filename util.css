@@ -1,0 +1,74 @@
+.min-hscreen{
+    min-height: 100vh;
+}
+.bgcol{
+    background-color: aqua;
+}
+.mx-auto{
+    margin-left:auto;
+    margin-right: auto;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+.items{
+    align-items: center;
+}
+.justcent
+{
+    justify-content: center;
+}
+.justbtw{
+    justify-content: space-between;
+}
+.justcent{
+    justify-content: center;
+}
+.font-bold{
+    font-weight: 2rem;
+    font-size: 3rem;
+}
+.flexcol{
+    flex-direction: column;
+}
+.my1{
+    margin-top: 200px;
+    margin-bottom: 10px;
+
+}
+.mg{
+    margin-bottom: 35px;
+}
+.px2
+{
+    padding-left: 93px;
+    padding-right: 93px;
+}
+   
+.textcol{
+    color: rgb(61, 4, 56);
+}
+.btn
+{
+    padding: 8px 12px;
+    border: 2px solid rgb(248, 247, 247);
+    border-radius: 6px;
+    cursor: pointer;
+    color: aliceblue;
+    background-color: blue;
+}
+.overflowhide{
+    overflow: hidden;
+}
+.txtalgn{
+    text-align: center;
+}
+.my2{
+    margin-top: 50px;
+    margin-bottom: 20px;
+
+}
+
+
+
